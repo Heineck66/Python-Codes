@@ -1,0 +1,4 @@
+alice | alice@example.com | 123455
+Bob | bob@example.com | 123455
+Charlie | char@exe.com | !kbb8rLrd$!#i42sr
+alex | alex@pm.me | L(2V&l%MrkZ6&UY9U
